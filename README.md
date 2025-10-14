@@ -1,4 +1,4 @@
-# DL- Developing a Recurrent Neural Network Model for Stock Prediction
+# Ex-05: DL- Developing a Recurrent Neural Network Model for Stock Prediction
 
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:Ashwin Akash M
 
-### Register Number:
+### Register Number: 212223230024
 
 ```python
 # Define RNN Model
@@ -71,4 +71,4 @@ Include your plot here
 Include the predictions on test data
 
 ## RESULT
-Include your result here
+Thus, a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data has been developed successfully.
